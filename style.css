@@ -1,0 +1,41 @@
+h1{
+    font-size: 30px;
+}
+h2{
+    font-size: 20px;
+}
+.color{
+    color: aqua;
+}
+body{font-family: 'Merriweather', serif;
+    font-size: large;
+    margin: 0;
+
+}
+.suru{
+    width: 50%;
+    padding-left: 20px;
+}
+.suru img{width: 70%;
+
+}
+
+.link{
+    background-image: linear-gradient(aqua, rgb(0, 162, 255));
+    text-decoration: none;
+    color: orange;
+    padding: 10px 40px;
+    font-weight: 700;
+    border: red;
+    border-radius: 5px;
+}
+
+.first{
+    display: flex;
+    margin-bottom: 100px;
+        }
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+    
